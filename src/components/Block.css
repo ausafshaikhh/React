@@ -1,0 +1,15 @@
+.col{
+    border:2px solid white;
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    border-radius: 20px;
+}
+.col:hover{
+    cursor:pointer;
+}
